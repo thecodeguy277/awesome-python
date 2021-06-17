@@ -724,10 +724,18 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [MarkupSafe](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 * [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+* [sierra](https://github.com/BrainStormYourWayIn/sierra) - A lightweight Python framework for building and integrating web applications with HTML and CSS
 * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 * [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
 * [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+
+
+## Web development with pure Python
+
+*Libraries for developing web applications purely with Python.*
+
+* [sierra](https://github.com/BrainStormYourWayIn/sierra) - A lightweight Python framework for building and integrating web applications with HTML and CSS
 
 ## HTTP Clients
 
